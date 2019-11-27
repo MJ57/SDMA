@@ -12,6 +12,7 @@ The goal of this project is to collect informations on Twitter about some films.
 
 
 ## Plan
+Thib: Je propose de prendre la tache 1 et 2, est ce que c'est ok pour vous ? 
 
 1. Collect tweet - scrolling / filter on #'film name' 
 2. Preprocess on each tweet 
