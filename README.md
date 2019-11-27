@@ -19,3 +19,7 @@ The goal of this project is to collect informations on Twitter about some films.
 4. Predict the emotion for each tweet
 5. Predict a score with the emotion level (score /10)
 6. Compare this score with the official IMDb score
+
+
+## API to get Official IMDb score
+https://imdbpy.github.io/
