@@ -3,7 +3,8 @@ Hello and welcome to the Git of SDMA-Project.
 
 ## API for Tweeter
 
-Twint project: [GitHub Page of Twint](https://github.com/twintproject/twint).
+- Twint project: [GitHub Page of Twint](https://github.com/twintproject/twint).
+- Get and Work With Twitter Data in Python Using Tweepy : [Tuto for Tweepy](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/).
 
 
 ## Subject 
@@ -24,3 +25,4 @@ Thib: Je propose de prendre la tache 1 et 2, est ce que c'est ok pour vous ?
 
 ## API to get Official IMDb score
 https://imdbpy.github.io/
+
