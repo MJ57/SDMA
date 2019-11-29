@@ -4,7 +4,7 @@ Hello and welcome to the Git of SDMA-Project.
 ## API for Tweeter
 
 - Twint project: [GitHub Page of Twint](https://github.com/twintproject/twint).
-- Get and Work With Twitter Data in Python Using Tweepy : [Tuto for Tweepy](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/).
+- Tuto for Twint Usage https://pielco11.ovh/posts/twint-osint/
 
 
 ## Subject 
