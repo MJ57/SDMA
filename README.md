@@ -15,12 +15,12 @@ The goal of this project is to collect informations on Twitter about some films.
 ## Plan
 Thib: Je propose de prendre la tache 1 et 2, est ce que c'est ok pour vous ? 
 
-1. Collect tweet - scrolling / filter on #'film name' 
-2. Preprocess on each tweet 
-3. Train our classifier (must find data to train classifier with emotion)
-4. Predict the emotion for each tweet
-5. Predict a score with the emotion level (score /10)
-6. Compare this score with the official IMDb score
+1. Collect tweet - scrolling / filter on #'film name' (Thibaud)
+2. Preprocess on each tweet (Thibaud)
+3. Train our classifier (must find data to train classifier with emotion) (Yurui)
+4. Predict the emotion for each tweet (Yurui)
+5. Predict a score with the emotion level (score /10) (Matthieu)
+6. Compare this score with the official IMDb score (Matthieu)
 
 
 ## API to get Official IMDb score
