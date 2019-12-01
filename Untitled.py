@@ -4,7 +4,7 @@
 # In[1]:
 
 
-print("TEST")
+print('TEST')
 
 
 # In[ ]:
