@@ -8,7 +8,7 @@ Hello and welcome to the Git of SDMA-Project.
 
 ## Links for classifier and emotion : 
 - Sentiment-Analysis-of-Text-Data-Tweets : [GitHub Page of Sentiment Analysus of Text Data Tweets](https://github.com/ajayshewale/Sentiment-Analysis-of-Text-Data-Tweets-)
-- imdb-sentiment-analysis : [GitHub Page of imdb-sentiment-analysis] (https://github.com/aaronkub/machine-learning-examples/tree/master/imdb-sentiment-analysis)
+- imdb-sentiment-analysis : [GitHub Page of imdb-sentiment-analysis](https://github.com/aaronkub/machine-learning-examples/tree/master/imdb-sentiment-analysis)
 ## Subject 
 
 The goal of this project is to collect informations on Twitter about some films. Once collected we will analyse these informations and guess the emotion and reaction from Twitter users about each film. We will evaluate the score for each film with our machine learning and compare this score with the official IMDb score.
