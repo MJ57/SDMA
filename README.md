@@ -6,6 +6,8 @@ Hello and welcome to the Git of SDMA-Project.
 - Twint project: [GitHub Page of Twint](https://github.com/twintproject/twint).
 - Tuto for Twint Usage https://pielco11.ovh/posts/twint-osint/
 
+## Links for classifier and emotion : 
+- Sentiment-Analysis-of-Text-Data-Tweets : [GitHub Page of Twint](https://github.com/ajayshewale/Sentiment-Analysis-of-Text-Data-Tweets-)
 
 ## Subject 
 
